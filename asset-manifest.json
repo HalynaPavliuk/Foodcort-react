@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Foodcort-react/static/css/main.0f797c85.chunk.css",
+    "main.js": "/Foodcort-react/static/js/main.16a6442e.chunk.js",
+    "main.js.map": "/Foodcort-react/static/js/main.16a6442e.chunk.js.map",
+    "runtime-main.js": "/Foodcort-react/static/js/runtime-main.2a059a2d.js",
+    "runtime-main.js.map": "/Foodcort-react/static/js/runtime-main.2a059a2d.js.map",
+    "static/js/2.6cca112c.chunk.js": "/Foodcort-react/static/js/2.6cca112c.chunk.js",
+    "static/js/2.6cca112c.chunk.js.map": "/Foodcort-react/static/js/2.6cca112c.chunk.js.map",
+    "index.html": "/Foodcort-react/index.html",
+    "static/css/main.0f797c85.chunk.css.map": "/Foodcort-react/static/css/main.0f797c85.chunk.css.map",
+    "static/js/2.6cca112c.chunk.js.LICENSE.txt": "/Foodcort-react/static/js/2.6cca112c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a059a2d.js",
+    "static/js/2.6cca112c.chunk.js",
+    "static/css/main.0f797c85.chunk.css",
+    "static/js/main.16a6442e.chunk.js"
+  ]
+}
