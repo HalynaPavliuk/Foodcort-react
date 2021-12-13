@@ -12,7 +12,7 @@ import Recipe from './pages/Recipe';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="Foodcort-react">
       <Header />
       <main className="container content">
       
