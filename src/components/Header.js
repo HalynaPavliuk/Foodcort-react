@@ -8,7 +8,7 @@ function Header() {
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li><Link to="/about">About</Link></li>
                         <li><Link to="/contacts">Contacts</Link></li>
-                        <li><Link to="#" target="_blank" rel="noreferrer">GitHub</Link></li>
+                        <li><Link to="https://github.com/HalynaPavliuk/Foodcort-react" target="_blank" rel="noreferrer">GitHub</Link></li>
                     </ul>
                 </div>
         </nav>
