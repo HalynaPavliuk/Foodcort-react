@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Foodcort-react/static/css/main.0f797c85.chunk.css",
-    "main.js": "/Foodcort-react/static/js/main.16a6442e.chunk.js",
-    "main.js.map": "/Foodcort-react/static/js/main.16a6442e.chunk.js.map",
-    "runtime-main.js": "/Foodcort-react/static/js/runtime-main.2a059a2d.js",
-    "runtime-main.js.map": "/Foodcort-react/static/js/runtime-main.2a059a2d.js.map",
-    "static/js/2.6cca112c.chunk.js": "/Foodcort-react/static/js/2.6cca112c.chunk.js",
-    "static/js/2.6cca112c.chunk.js.map": "/Foodcort-react/static/js/2.6cca112c.chunk.js.map",
-    "index.html": "/Foodcort-react/index.html",
-    "static/css/main.0f797c85.chunk.css.map": "/Foodcort-react/static/css/main.0f797c85.chunk.css.map",
-    "static/js/2.6cca112c.chunk.js.LICENSE.txt": "/Foodcort-react/static/js/2.6cca112c.chunk.js.LICENSE.txt"
+    "main.css": "/foodcort/static/css/main.0f797c85.chunk.css",
+    "main.js": "/foodcort/static/js/main.e2929e4d.chunk.js",
+    "main.js.map": "/foodcort/static/js/main.e2929e4d.chunk.js.map",
+    "runtime-main.js": "/foodcort/static/js/runtime-main.4d2fcd47.js",
+    "runtime-main.js.map": "/foodcort/static/js/runtime-main.4d2fcd47.js.map",
+    "static/js/2.6cca112c.chunk.js": "/foodcort/static/js/2.6cca112c.chunk.js",
+    "static/js/2.6cca112c.chunk.js.map": "/foodcort/static/js/2.6cca112c.chunk.js.map",
+    "index.html": "/foodcort/index.html",
+    "static/css/main.0f797c85.chunk.css.map": "/foodcort/static/css/main.0f797c85.chunk.css.map",
+    "static/js/2.6cca112c.chunk.js.LICENSE.txt": "/foodcort/static/js/2.6cca112c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a059a2d.js",
+    "static/js/runtime-main.4d2fcd47.js",
     "static/js/2.6cca112c.chunk.js",
     "static/css/main.0f797c85.chunk.css",
-    "static/js/main.16a6442e.chunk.js"
+    "static/js/main.e2929e4d.chunk.js"
   ]
 }
